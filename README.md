@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine learning using sklearn Python
+Machine learning using temsorflow/keras/sklearn Python
 
 
 
@@ -10,3 +10,7 @@ you can learn Neural Network from basisc level through this file and implement i
 
 
 inside heart_disease folder...Their can be pre trailed model preserved as pikel file and authentic training conception are in commit blocks.
+
+
+
+
